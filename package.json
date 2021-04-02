@@ -50,5 +50,10 @@
     "rollup-plugin-typescript2": "^0.27.1",
     "typescript": "^3.9.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "html-webpack-plugin": "^5.3.1",
+    "webpack": "^5.30.0",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  }
 }
